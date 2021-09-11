@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @luizes
+- 👀 I’m interested in supply chain analysis
+- 🌱 I’m currently learning Python for supply chain analysis
+- 💞️ I’m looking to collaborate on supply chain analysis using Python
+- 📫 How to reach me luizes2011@hotmail.com or linkedin.com/in/luiz-eduardo-simão-60383948
